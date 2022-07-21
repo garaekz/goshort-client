@@ -1,0 +1,52 @@
+{
+    "name": "goshort-client",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "dependencies": {
+        "axios": "^0.27.2",
+        "js-cookie": "^3.0.1",
+        "vite": "^2.9.6",
+        "vue": "^3.2.16",
+        "vue-router": "^4.0.11",
+        "vuex": "^4.0.2"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^2.3.1",
+        "autoprefixer": "^10.3.7",
+        "eslint": "^8.14.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-vue": "^8.7.1",
+        "postcss": "^8.3.9",
+        "prettier": "^2.4.1",
+        "sass": "^1.42.1",
+        "tailwindcss": "^3.0.24",
+        "vite-svg-loader": "^3.1.2"
+    },
+    "description": "A Vue 3 website to consume Goshort project.",
+    "main": ".eslintrc.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/garaekz/goshort-client.git"
+    },
+    "keywords": [
+        "vue",
+        "vue 3",
+        "vite",
+        "vuex",
+        "vuex 4",
+        "svg",
+        "vite svg",
+        "boilerplate",
+        "starter",
+        "template",
+        "tailwind",
+        "tailwindcss",
+        "eslint",
+        "prettier"
+    ],
+    "author": "garaekz"
+}
